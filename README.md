@@ -1,4 +1,4 @@
-# Northwestern Group Project 1 - AKC
+# Northwestern Group Project 1 - Dog Data Analysis 
 
 This repository is a clone of a group project that was completed during my Northwestern Data Science Bootcamp.  The project utilized an API saved here:  https://api-ninjas.com/api/dogs This API was converted into a dataframe to seek answers to the following questions
 
