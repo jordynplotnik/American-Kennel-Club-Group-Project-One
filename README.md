@@ -6,3 +6,9 @@ Questions:
 1. Do smaller dogs bark more?
 2. What are the life expectancies of different sized dogs?
 3. Is there a correlation between a dog's height and weight?
+
+Collaborators: 
+
+https://github.com/gnimeth
+https://github.com/eabouche
+https://github.com/Samrosegithub
